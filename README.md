@@ -1,6 +1,5 @@
 ![Alt text](2._Host_a_WordPress_Website_on_AWS.png)
 
-
 # WordPress Website Hosting on AWS with High Availability & Scalability
 
 This project demonstrates how to deploy and host a highly available, fault-tolerant, and scalable **WordPress** website on **Amazon Web Services (AWS)** using various managed services and DevOps best practices.
